@@ -2,7 +2,7 @@
   "author": "Farhad Nowzari",
   "name": "vuetify-fullscreen-timer",
   "description": "This components lets you to add a fullscreen timer",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "main": "dist/VuetifyFullscreenTimer.umd.js",
   "module": "dist/VuetifyFullscreenTimer.esm.js",
   "unpkg": "dist/VuetifyFullscreenTimer.min.js",
