@@ -14,7 +14,7 @@
 </template>
 
 <script>
-import { VOverlay, VIcon, VBtn } from 'vuetify/lib'
+import { VOverlay, VIcon, VBtn, VDivider } from 'vuetify/lib'
 
 
 import moment from 'moment';
@@ -24,7 +24,8 @@ export default {
     components: {
         VOverlay,
         VIcon,
-        VBtn
+        VBtn,
+        VDivider
     },
     computed: {
         momentStartPoint() {
